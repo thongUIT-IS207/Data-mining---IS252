@@ -1,0 +1,11 @@
+OrderID,CustomerName,Age,Product,Category,Quantity,Price,Discount,OrderDate,City,State,Country,Rating
+1001,John Doe,25,Laptop,Electronics,1,1200,10,2021-01-15,New York,NY,USA,4.5
+1002,Jane Smith,NaN,Smartphone,Electronics,2,800,15,2020-12-01,Los Angeles,CA,USA,4.7
+1003,Sam Brown,40,Laptop,Electronics,1,1200,NaN,2021-02-20,San Francisco,CA,USA,4.0
+1004,Anna Blue,35,,Clothing,5,50,5,2021-03-05,Chicago,IL,USA,4.1
+1005,Mary Johnson,28,Tablet,Electronics,1,400,0,2020-11-25,,NY,USA,NaN
+1006,Peter White,33,Shirt,Clothing,2,-100,5,2020-12-20,Houston,TX,USA,4.2
+1007,Lucy Grey,27,Smartphone,Electronics,1,800,10,2021-01-12,San Diego,CA,USA,4.8
+1008,Sam Brown,40,Laptop,Electronics,1,1200,10,2021-02-20,San Francisco,CA,USA,4.0
+1009,Mark Black,50,,Electronics,3,600,5,2021-01-30,Seattle,WA,USA,3.9
+1010,Anna Blue,35,Laptop,Electronics,1,1200,15,,Chicago,IL,USA,4.3
